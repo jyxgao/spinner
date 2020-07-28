@@ -1,4 +1,4 @@
-/* Animates an array of strings */
+/* Animates an array of strings with a spinner example */
 const spin = function(arr) {
   let timer = 100;
   for (const el of arr) {
